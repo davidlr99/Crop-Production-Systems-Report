@@ -1,0 +1,4 @@
+generated_charts/*.png
+weather/charts/air_temperature_mean/*.png
+weather/charts/precipitation/*.png
+weather/charts/sunshine_duration/*.png
